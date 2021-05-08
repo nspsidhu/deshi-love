@@ -2,7 +2,7 @@
   <br>
   <a href="https://github.com/TheSpeedX/TBomb"><img src="https://i.ibb.co/F4HBKqm/TBomb.png" alt="TBomb"></a>
   <br>
-  TBomb v2.0b
+  Deshi Bomb v2.0b
   <br>
 </h1>
 
@@ -13,8 +13,8 @@
 
 
 > ## Deprecation Warning:
-> **All TBomb versions below v2.0 will no longer work after 14-11-2020.**  
-**All TBomb users need to update to v2.0 ASAP**
+> **All Deshi Bomb versions below v2.0 will no longer work after 14-11-2020.**  
+**All Deshi Love users need to update to v2.0 ASAP**
 
 **Due to overuse of script, a bunch APIs have been taken offline. It is okay if you do not receive all the messages.**
 
